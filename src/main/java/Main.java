@@ -4,6 +4,6 @@ public class Main
     {
         ClassTwo two = new ClassTwo();
         System.out.println(two.returnInt());
-        System.out.println("var intExample: " + two.intExample);
+        System.out.println("var intExample = " + two.intExample);
     }
 }
